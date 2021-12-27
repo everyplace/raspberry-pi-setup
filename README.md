@@ -30,6 +30,7 @@
 ## Github
 - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 - https://pimylifeup.com/raspberry-pi-ssh-keys/
+- Get keychain working with ssh id files [stackoverflow](https://stackoverflow.com/questions/3466626/how-to-permanently-add-a-private-key-with-ssh-add-on-ubuntu)
 
 ## Firefox (full, non-esr version)
 - https://raspberrytips.com/install-firefox-raspberry-pi/
