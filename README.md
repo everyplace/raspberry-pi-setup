@@ -9,6 +9,9 @@
 ### VPN
 - https://tailscale.com (login with github)
 
+### Set up a new keyring
+- https://code.visualstudio.com/docs/editor/settings-sync#_troubleshooting-keychain-issues
+
 ## Hardware
 ### Booting
 - Relevant for argone m2 cases only: [boot from m.2](https://www.tomshardware.com/how-to/boot-raspberry-pi-4-usb)
