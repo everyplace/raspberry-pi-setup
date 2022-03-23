@@ -5,6 +5,7 @@
 
 ### Make sure xrdp is installed and launching
 - https://askubuntu.com/questions/1286213/failed-to-start-xrdp-daemon-possibly-address-already-in-use
+- [Fix the issue with xrdp and 64-bit Raspberry OS](https://github.com/neutrinolabs/xrdp/issues/2060#issuecomment-979322159)
 
 ### VPN
 - https://tailscale.com (login with github)
